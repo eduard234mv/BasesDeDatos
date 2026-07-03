@@ -111,12 +111,12 @@ Una empresa de dedica a la venta de productos al por mayor, y necesita registrar
 9. El detalle del pedido alamacena cantidad vendida y precio de venta
 
 ### Diagrama del ejercicio 4
-![Diagrama 4](../img/ejercicio4.png)
+![Diagrama 4](../img/ejercicio4%20(2).jpeg)
 
 ## Ejercicio 5
 ### Diagrama del ejercicio 5
-![Diagrama 5](../img/ejercicio5.png)
+![Diagrama 5](../img/ejercicio5%20(2).jpeg)
 
 ## Ejercicio 6
 ### Diagrama del ejercicio 6
-![Diagrama 6]()
+![Diagrama 6](../img/ejercicio6%20(2).jpeg)

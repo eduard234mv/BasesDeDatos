@@ -7,7 +7,7 @@
 | Proyecto | Sistema de control de Productos |
 | vercion | 1.0 |
 | Fecha | Junio 2026 |
-| Elaboro | Juan Antonio Hernandez Martinez |
+| Elaboro | JOSE EDUARDO MARCELO VEGA |
 | SGBD | SQLServer |
 
 2. Descrpcion del sistema de base de datos
@@ -94,7 +94,7 @@ Permite controlar las categorias y los productos registrados dentro del sistema.
 | Proyecto | Sistema de control Escolar |
 | vercion | 1.0 |
 | Fecha | Junio 2026 |
-| Elaboro | Juan Antonio Hernandez Martinez |
+| Elaboro | JOSE EDUARDO MARCELO VEGA|
 | SGBD | SQLServer |
 
 2. Descrpcion del sistema de base de datos
@@ -201,7 +201,7 @@ Permite controlar las materias que cursan los alumnos y las calificaciones obten
 | Proyecto | Sistema de control de Ventas |
 | vercion | 1.0 |
 | Fecha | Junio 2026 |
-| Elaboro | Juan Antonio Hernandez Martinez |
+| Elaboro | JOSE EDUARDO MARCELO VEGA|
 | SGBD | SQLServer |
 
 2. Descrpcion del sistema de base de datos
@@ -322,7 +322,7 @@ Permite controlar los pedidos realizados por los clientes y los productos vendid
 | Proyecto | Sistema de control de Empresa |
 | vercion | 1.0 |
 | Fecha | Junio 2026 |
-| Elaboro | Juan Antonio Hernandez Martinez |
+| Elaboro | JOSE EDUARDO MARCELO VEGA |
 | SGBD | SQLServer |
 
 2. Descrpcion del sistema de base de datos
